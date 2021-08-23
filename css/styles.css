@@ -1,0 +1,160 @@
+body {
+  background-color: #C1CFC0;
+  margin: 0;
+  text-align: center;
+}
+
+.contactPar {
+  padding: 0 40px 0 40px;
+}
+
+.myprofession {
+  margin-bottom: 400px;
+  margin-top: -30px;
+  font-size: 2.5rem;
+}
+
+hr {
+  height: 0;
+  border-style: hidden;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 7px;
+  margin: 30px auto;
+  border-color: #11999E;
+}
+
+h1 {
+  font-size: 500%;
+  line-height: 2;
+  color: #5C527F;
+  margin: 0 auto 0 auto;
+  font-family: Nunita, sans-serif;
+}
+
+.hellotext {
+  padding-bottom: 90px;
+  font-size: 1.9rem;
+}
+
+.bio {
+  line-height: 3;
+  font-size: 1.2rem;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: Nunita, sans-serif;
+  color: #5C527F;
+  font-size: 1.9rem;
+  padding-top: 50px;
+}
+
+.BUTTON_NWP {
+  margin: 30px auto 30px auto;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  border-radius: 16px;
+  color: #FFFFFF;
+  font-family: Tahoma;
+  font-size: 20px;
+  font-weight: 400;
+  padding: 10px;
+  background-color: #11999E;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_NWP:hover {
+  background: #4F5070;
+  border: solid #337FED 0;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  border-radius: 16px;
+  text-decoration: none;
+}
+
+h3 {
+  font-family: Open Sans, sans-serif;
+  color: #11999E;
+  margin-bottom: 0;
+  font-weight: bolder;
+  font-size: 1.4rem;
+}
+
+p {
+  color: #334257;
+  font-family: Open Sans, sans-serif;
+  margin-bottom: 0;
+  line-height: 2;
+  font-size: 1.2rem;
+}
+
+.profile {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-top: 50px;
+}
+
+.boldit {
+  font-weight: bold;
+}
+
+.skillimageone {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skillimagetwo {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 300px;
+  bottom: 500px;
+}
+
+.profile {
+  text-align: center;
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 250px;
+}
+
+.myLogo {
+  width: 50%;
+  padding-bottom: 200px;
+  padding-top: 200px;
+}
+
+.topContainer {
+  background-color: #11999E;
+  position: relative;
+  padding-top: 1000px;
+  padding-bottom: 1000px;
+  padding-bottom: 0;
+}
+
+.bottom-container {
+  position: relative;
+  background-color: #11999E;
+  margin-bottom: 0;
+  padding: 40px 0 20px 0;
+}
